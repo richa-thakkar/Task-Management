@@ -38,5 +38,5 @@ A task management application built with React, TypeScript, and Node.js, featuri
   - npm run dev
 
   ### Backend
-  - cd task-server
+  - cd Task-management
   - node server.js
